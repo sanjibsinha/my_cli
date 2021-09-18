@@ -15,6 +15,5 @@ Getting value...
 The value is 43!
 null
 1
- After you add late to the declaration of _cache, if you move the _computeValue function into the CachedValueProvider class the code still works! Initialization expressions 
- for late fields can use instance methods in their initializers.
+ 
  */
